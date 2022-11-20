@@ -92,6 +92,41 @@
 
   <hr>
 
+  <section>
+    <div class="container">
+      <div class="row">
+        <h3><b>Education</b></h3>
+      </div>
+      <div class="row mt-2">
+        <div class='wrapper'>
+          <div class='steps' id='steps'>
+            <div class='step'>
+              <div class='number '>
+                1
+              </div>
+              <div class='info'>
+                <p class='title'>
+                  VOCATIONAL HIGH SCHOLL OF SOFTWARE ENGINEER
+                </p>
+                <p class='text'>
+                  <small>2017 - 2020</small>
+                </p>
+              </div>
+            </div>
+            <div class='step'>
+              <div class='number'>2</div>
+              <div class='info'>
+                <p class='title'>UNIVERSITY OF BINA SARANA INFORMATIKA YOGYAKARTA</p>
+                <p class='text'>
+                  <small>2020 - 2023</small>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
 
 
   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous"></script>

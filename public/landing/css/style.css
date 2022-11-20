@@ -4,3 +4,61 @@ body {
     font-family: "Montserrat", sans-serif;
     font-family: "Poppins", sans-serif;
 }
+
+.steps {
+    max-width: auto;
+}
+
+.step {
+    display: flex;
+    position: relative;
+}
+.step:after {
+    content: "";
+    position: absolute;
+    left: 15px;
+    top: 32px;
+    height: 0;
+    width: 2px;
+    background-color: #007ea7;
+}
+.step .info {
+    margin: 8px 0 20px;
+}
+.step .title {
+    font-size: 16px;
+    font-weight: 600;
+    margin: 0 0 8px;
+    color: black;
+}
+
+.step:not(:last-child):after {
+    height: 70%;
+}
+
+.number {
+    width: 32px;
+    height: 32px;
+    background-color: transparent;
+    border-radius: 50%;
+    border: 2px solid #007ea7;
+    flex-shrink: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    font-weight: 600;
+    margin-right: 14px;
+}
+.number.completed {
+    background-color: #007ea7;
+}
+.number svg {
+    width: 16px;
+    height: 16px;
+    object-fit: contain;
+}
+.number svg path {
+    fill: rgb(0, 0, 0);
+}
