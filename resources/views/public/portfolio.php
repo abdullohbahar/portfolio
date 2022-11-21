@@ -95,7 +95,7 @@
   <section>
     <div class="container">
       <div class="row">
-        <h3><b>Education</b></h3>
+        <h4><b>Education</b></h4>
       </div>
       <div class="row mt-2">
         <div class='wrapper'>
@@ -119,6 +119,50 @@
                 <p class='title'>UNIVERSITY OF BINA SARANA INFORMATIKA YOGYAKARTA</p>
                 <p class='text'>
                   <small>2020 - 2023</small>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row mt-3">
+        <h4><b>EMPLOYMENT</b></h4>
+      </div>
+      <div class="row mt-2">
+        <div class='wrapper'>
+          <div class='steps' id='steps'>
+            <div class='step'>
+              <div class='number '>
+                1
+              </div>
+              <div class='info'>
+                <p class='title'>
+                  INTERNSHIP AT UNIVERSITY OF ISLAM INDONESIA AS FULLSTACK DEVELOPER
+                </p>
+                <p class='text'>
+                  <small>DECEMBER 2018 - MARCH 2019</small>
+                </p>
+              </div>
+            </div>
+            <div class='step'>
+              <div class='number'>2</div>
+              <div class='info'>
+                <p class='title'>
+                  INTERNSHIP AT GRIYAMEDIA WEBSITE AS DATA ENTRY
+                </p>
+                <p class='text'>
+                  <small>JUNE 2019 - AUGUST 2019</small>
+                </p>
+              </div>
+            </div>
+            <div class='step'>
+              <div class='number'>3</div>
+              <div class='info'>
+                <p class='title'>
+                  WORK AT <a target="_blank" href="https://sorayaworld.id/">SORAYA WORLD</a>
+                </p>
+                <p class='text'>
+                  <small>JUNE 2020 - NOW</small>
                 </p>
               </div>
             </div>
