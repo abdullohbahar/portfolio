@@ -39,6 +39,7 @@
           <img src="./landing/images/me.png" alt="" srcset="" class="w-75 img-fluid rounded shadow-lg">
         </div>
         <div class="sm-12 col-md-8 col-lg-8 col-xl-8 mt-2">
+          <h5>Hello, I'm</h5>
           <h1><b>Baharudin Abdulloh Mun'im</b></h1>
           <p>Backend Developer</p>
           <b>
@@ -225,6 +226,19 @@
             </div>
             <div class="progress">
               <div class="progress-bar" role="progressbar" aria-label="Basic example" style="width: 70%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+          </div>
+          <div class="col-11 mt-3">
+            <div class="row justify-content-between">
+              <div class="col-4">
+                <b>BOOTSTRAP</b>
+              </div>
+              <div class="col-4 text-end">
+                <b>85%</b>
+              </div>
+            </div>
+            <div class="progress">
+              <div class="progress-bar" role="progressbar" aria-label="Basic example" style="width: 85%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
         </div>
