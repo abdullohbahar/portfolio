@@ -92,10 +92,10 @@
 
   <hr>
 
-  <section class="mb-5">
+  <section class="mb-2 mt-5">
     <div class="container">
       <div class="row">
-        <h4><b>Education</b></h4>
+        <h4><b>EDUCATION</b></h4>
       </div>
       <div class="row mt-2">
         <div class='wrapper'>
@@ -173,6 +173,7 @@
         <h4><b>GENERAL SKILLS</b></h4>
       </div>
       <div class="row justify-content-center">
+        <!-- Left Side -->
         <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6">
           <div class="col-11 mt-3">
             <div class="row justify-content-between">
@@ -227,6 +228,8 @@
             </div>
           </div>
         </div>
+
+        <!-- Right Side -->
         <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6">
           <div class="col-11 mt-3">
             <div class="row justify-content-between">
@@ -279,6 +282,56 @@
             <div class="progress">
               <div class="progress-bar" role="progressbar" aria-label="Basic example" style="width: 85%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <hr>
+
+  <section class="mb-5 mt-5">
+    <div class="container">
+      <div class="row">
+        <h4><b>My Projects</b></h4>
+      </div>
+      <div class="row">
+        <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6 mt-3">
+          <div class="card" style="max-width: auto;">
+            <a target="_blank" href="https://sidenokk.pesonakaranganyar.org/" class="text-reset text-decoration-none">
+              <img src="./landing/images/sidenokk.png" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title"><b>Sistem Informasi Data Elektronik Olahraga Kepemudaan dan Kepariwisataan</b></h5>
+                <p class="card-text">
+                  Is a system that contains information related to tourism, creative economy, youth and sports data in Karanganyar Regency
+                </p>
+                <p>
+                  <b>Position : Frontend Developer</b> <br>
+                  <b>Used Stack :</b> <br>
+                </p>
+                <button type="button" class="btn btn-outline-success mt-2">HTML</button>
+                <button type="button" class="btn btn-outline-success mt-2">CSS</button>
+                <button type="button" class="btn btn-outline-success mt-2">Bootstrap</button>
+                <button type="button" class="btn btn-outline-success mt-2">Javascript</button>
+                <button type="button" class="btn btn-outline-success mt-2">Codeigniter 4</button>
+              </div>
+            </a>
+          </div>
+        </div>
+        <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6 mt-3">
+          <div class="card" style="max-width: auto;">
+            <a target="_blank" href="https://flazzenglish.com/" class="text-reset text-decoration-none">
+              <img src="./landing/images/flazz.png" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title"><b>Flazz English</b></h5>
+                <p class="card-text">
+                  Flazz English is your partner to help all students learn English fast. We use learning methods and materials that are simple and fun to help school institutions meet the needs of every student in learning English.
+                </p>
+                <p>
+                  <b>Position : Mobile App Tester</b> <br>
+                </p>
+              </div>
+            </a>
           </div>
         </div>
       </div>
