@@ -24,7 +24,13 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <a class="nav-link" aria-current="page" href="#"><b>HOME</b></a>
+            <a class="nav-link" aria-current="page" href="#home"><b>HOME</b></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" aria-current="page" href="#portfolio"><b>PORTFOLIO</b></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" aria-current="page" href="#contact"><b>CONTACT ME</b></a>
           </li>
         </ul>
       </div>
@@ -32,7 +38,7 @@
   </nav>
 
   <!-- Section 1 -->
-  <section class="mb-5">
+  <section class="mb-5" id="home">
     <div class="container mt-5">
       <div class="row">
         <div class="col-sm-12 col-md-4 col-lg-4 col-xl-4 text-center">
@@ -302,7 +308,7 @@
     </div>
   </section>
 
-  <section class="mb-5 mt-5" style="background-color: rgb(205, 203, 203)">
+  <section id="portfolio" class="mb-5 mt-5" style="background-color: rgb(205, 203, 203)">
     <div class="container">
       <div class="row">
         <h4 class="mt-4"><b>My Projects</b></h4>
@@ -423,7 +429,7 @@
     </div>
   </section>
 
-  <section class="mb-5">
+  <section id="contact" class="mb-5">
     <div class="container">
       <div class="row">
         <h4>
