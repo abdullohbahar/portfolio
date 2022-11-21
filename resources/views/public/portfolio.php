@@ -36,7 +36,7 @@
     <div class="container mt-5">
       <div class="row">
         <div class="col-sm-12 col-md-4 col-lg-4 col-xl-4 text-center">
-          <img src="./landing/images/me.png" alt="" srcset="" class="w-100 img-fluid rounded shadow-lg">
+          <img src="./landing/images/me.png" alt="" srcset="" class="w-75 img-fluid rounded shadow-lg">
         </div>
         <div class="sm-12 col-md-8 col-lg-8 col-xl-8 mt-2">
           <h1><b>Baharudin Abdulloh Mun'im</b></h1>
@@ -92,7 +92,7 @@
 
   <hr>
 
-  <section>
+  <section class="mb-5">
     <div class="container">
       <div class="row">
         <h4><b>Education</b></h4>
@@ -165,6 +165,119 @@
                   <small>JUNE 2020 - NOW</small>
                 </p>
               </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row mt-2">
+        <h4><b>GENERAL SKILLS</b></h4>
+      </div>
+      <div class="row justify-content-center">
+        <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6">
+          <div class="col-11 mt-3">
+            <div class="row justify-content-between">
+              <div class="col-4">
+                <b>HTML</b>
+              </div>
+              <div class="col-4 text-end">
+                <b>80%</b>
+              </div>
+            </div>
+            <div class="progress">
+              <div class="progress-bar" role="progressbar" aria-label="Basic example" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+          </div>
+          <div class="col-11 mt-3">
+            <div class="row justify-content-between">
+              <div class="col-4">
+                <b>CSS</b>
+              </div>
+              <div class="col-4 text-end">
+                <b>60%</b>
+              </div>
+            </div>
+            <div class="progress">
+              <div class="progress-bar" role="progressbar" aria-label="Basic example" style="width: 60%" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+          </div>
+          <div class="col-11 mt-3">
+            <div class="row justify-content-between">
+              <div class="col-4">
+                <b>JAVASCRIPT</b>
+              </div>
+              <div class="col-4 text-end">
+                <b>70%</b>
+              </div>
+            </div>
+            <div class="progress">
+              <div class="progress-bar" role="progressbar" aria-label="Basic example" style="width: 70%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+          </div>
+          <div class="col-11 mt-3">
+            <div class="row justify-content-between">
+              <div class="col-4">
+                <b>JQUERY</b>
+              </div>
+              <div class="col-4 text-end">
+                <b>70%</b>
+              </div>
+            </div>
+            <div class="progress">
+              <div class="progress-bar" role="progressbar" aria-label="Basic example" style="width: 70%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6">
+          <div class="col-11 mt-3">
+            <div class="row justify-content-between">
+              <div class="col-4">
+                <b>PHP</b>
+              </div>
+              <div class="col-4 text-end">
+                <b>85%</b>
+              </div>
+            </div>
+            <div class="progress">
+              <div class="progress-bar" role="progressbar" aria-label="Basic example" style="width: 85%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+          </div>
+          <div class="col-11 mt-3">
+            <div class="row justify-content-between">
+              <div class="col-4">
+                <b>MYSQL</b>
+              </div>
+              <div class="col-4 text-end">
+                <b>80%</b>
+              </div>
+            </div>
+            <div class="progress">
+              <div class="progress-bar" role="progressbar" aria-label="Basic example" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+          </div>
+          <div class="col-11 mt-3">
+            <div class="row justify-content-between">
+              <div class="col-4">
+                <b>CODEIGNITER 3</b>
+              </div>
+              <div class="col-4 text-end">
+                <b>75%</b>
+              </div>
+            </div>
+            <div class="progress">
+              <div class="progress-bar" role="progressbar" aria-label="Basic example" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+          </div>
+          <div class="col-11 mt-3">
+            <div class="row justify-content-between">
+              <div class="col-4">
+                <b>LARAVEL 8</b>
+              </div>
+              <div class="col-4 text-end">
+                <b>85%</b>
+              </div>
+            </div>
+            <div class="progress">
+              <div class="progress-bar" role="progressbar" aria-label="Basic example" style="width: 85%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
         </div>
