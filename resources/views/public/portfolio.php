@@ -327,6 +327,7 @@
                 <button type="button" class="btn btn-outline-success mt-2">CSS</button>
                 <button type="button" class="btn btn-outline-success mt-2">Bootstrap</button>
                 <button type="button" class="btn btn-outline-success mt-2">Javascript</button>
+                <button type="button" class="btn btn-outline-success mt-2">PHP</button>
                 <button type="button" class="btn btn-outline-success mt-2">Codeigniter 4</button>
               </div>
             </a>
@@ -348,6 +349,90 @@
             </a>
           </div>
         </div>
+        <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6 mt-3">
+          <div class="card" style="max-width: auto;">
+            <a target="_blank" href="https://accessive.id/" class="text-reset text-decoration-none">
+              <img src="./landing/images/accessive.png" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title"><b>Accessive.id</b></h5>
+                <p class="card-text">
+                  Interactive Application Platform to find accessible places so that people with disabilities and people with physical disabilities can be more active and productive
+                </p>
+                <p>
+                  <b>Position : Frontend Developer</b> <br>
+                  <b>Used Stack :</b> <br>
+                </p>
+                <button type="button" class="btn btn-outline-success mt-2">HTML</button>
+                <button type="button" class="btn btn-outline-success mt-2">CSS</button>
+                <button type="button" class="btn btn-outline-success mt-2">Bootstrap</button>
+                <button type="button" class="btn btn-outline-success mt-2">Javascript</button>
+                <button type="button" class="btn btn-outline-success mt-2">PHP</button>
+                <button type="button" class="btn btn-outline-success mt-2">Laravel 8</button>
+              </div>
+            </a>
+          </div>
+        </div>
+        <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6 mt-3">
+          <div class="card" style="max-width: auto;">
+            <a target="_blank" href="https://www.nayantaka.com/" class="text-reset text-decoration-none">
+              <img src="./landing/images/nayantaka.png" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title"><b>Nayantaka</b></h5>
+                <p class="card-text">
+                  Nayantaka Global Forwarding is an international freight forwarding company committed to provide high quality delivery services with 12 years proven experience.
+                </p>
+                <p>
+                  <b>Position : Fullstack Developer</b> <br>
+                  <b>Used Stack :</b> <br>
+                </p>
+                <button type="button" class="btn btn-outline-success mt-2">HTML</button>
+                <button type="button" class="btn btn-outline-success mt-2">CSS</button>
+                <button type="button" class="btn btn-outline-success mt-2">Bootstrap</button>
+                <button type="button" class="btn btn-outline-success mt-2">Javascript</button>
+                <button type="button" class="btn btn-outline-success mt-2">JQuery</button>
+                <button type="button" class="btn btn-outline-success mt-2">PHP</button>
+                <button type="button" class="btn btn-outline-success mt-2">Laravel 8</button>
+              </div>
+            </a>
+          </div>
+        </div>
+        <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6 mt-3">
+          <div class="card" style="max-width: auto;">
+            <a target="_blank" href="https://www.fitnesnesia.com/" class="text-reset text-decoration-none">
+              <img src="./landing/images/fitnesnesia.png" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title"><b>Fitnesnesia</b></h5>
+                <p class="card-text">
+                  Find the nearest Fitness center around you
+                </p>
+                <p>
+                  <b>Position : Fullstack Developer</b> <br>
+                  <b>Used Stack :</b> <br>
+                </p>
+                <button type="button" class="btn btn-outline-success mt-2">HTML</button>
+                <button type="button" class="btn btn-outline-success mt-2">CSS</button>
+                <button type="button" class="btn btn-outline-success mt-2">Bootstrap</button>
+                <button type="button" class="btn btn-outline-success mt-2">Javascript</button>
+                <button type="button" class="btn btn-outline-success mt-2">JQuery</button>
+                <button type="button" class="btn btn-outline-success mt-2">PHP</button>
+                <button type="button" class="btn btn-outline-success mt-2">Livewire</button>
+                <button type="button" class="btn btn-outline-success mt-2">Laravel 8</button>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <hr>
+
+  <section class="mb-5 mt-5">
+    <div class="container">
+      <div class="row">
+        <h4>
+          <b>GET IN TOUCH</b>
+        </h4>
       </div>
     </div>
   </section>
