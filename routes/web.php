@@ -16,3 +16,4 @@ use Illuminate\Support\Facades\Route;
 
 
 Route::get('/', [PortfolioController::class, 'index']);
+Route::post('/message', [PortfolioController::class, 'message'])->name('message');

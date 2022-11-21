@@ -302,14 +302,12 @@
     </div>
   </section>
 
-  <hr>
-
-  <section class="mb-5 mt-5">
+  <section class="mb-5 mt-5" style="background-color: rgb(205, 203, 203)">
     <div class="container">
       <div class="row">
-        <h4><b>My Projects</b></h4>
+        <h4 class="mt-4"><b>My Projects</b></h4>
       </div>
-      <div class="row">
+      <div class="row pb-5">
         <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6 mt-3">
           <div class="card" style="max-width: auto;">
             <a target="_blank" href="https://sidenokk.pesonakaranganyar.org/" class="text-reset text-decoration-none">
@@ -425,14 +423,31 @@
     </div>
   </section>
 
-  <hr>
-
-  <section class="mb-5 mt-5">
+  <section class="mb-5">
     <div class="container">
       <div class="row">
         <h4>
           <b>GET IN TOUCH</b>
         </h4>
+      </div>
+      <div class="row mt-2">
+        <div class="col-sm-12 col-md-8 col-lg-8 col-xl-8">
+          <form action="{{ route('message') }}" method="POST">
+            @csrf
+            <div class="mb-3">
+              <input type="text" name="name" placeholder="Your Name" id="" class="form-control" required>
+            </div>
+            <div class="mb-3">
+              <input type="email" name="email" placeholder="Your Email" id="" class="form-control" required>
+            </div>
+            <div class="mb-3">
+              <textarea name="message" id="" class="form-control" placeholder="Messages"></textarea>
+            </div>
+            <div class="mb-5 d-grid">
+              <button type="submit" class="btn btn-info">Send</button>
+            </div>
+          </form>
+        </div>
       </div>
     </div>
   </section>
