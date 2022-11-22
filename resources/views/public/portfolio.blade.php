@@ -42,7 +42,7 @@
     <div class="container mt-5">
       <div class="row">
         <div class="col-sm-12 col-md-4 col-lg-4 col-xl-4 text-center">
-          <img src="./landing/images/me.png" alt="" srcset="" class="w-75 img-fluid rounded shadow-lg">
+          <img src="{{ asset("./landing/images/me.png") }}" alt="" srcset="" class="w-75 img-fluid rounded shadow-lg">
         </div>
         <div class="sm-12 col-md-8 col-lg-8 col-xl-8 mt-2">
           <h5>Hello, I'm</h5>
@@ -317,7 +317,7 @@
         <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6 mt-3">
           <div class="card" style="max-width: auto;">
             <a target="_blank" href="https://sidenokk.pesonakaranganyar.org/" class="text-reset text-decoration-none">
-              <img src="./landing/images/sidenokk.png" class="card-img-top" alt="...">
+              <img src="{{ asset("./landing/images/sidenokk.png") }}" class="card-img-top" alt="...">
               <div class="card-body">
                 <h5 class="card-title"><b>Sistem Informasi Data Elektronik Olahraga Kepemudaan dan Kepariwisataan</b></h5>
                 <p class="card-text">
@@ -340,7 +340,7 @@
         <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6 mt-3">
           <div class="card" style="max-width: auto;">
             <a target="_blank" href="https://flazzenglish.com/" class="text-reset text-decoration-none">
-              <img src="./landing/images/flazz.png" class="card-img-top" alt="...">
+              <img src="{{ asset("./landing/images/flazz.png") }}" class="card-img-top" alt="...">
               <div class="card-body">
                 <h5 class="card-title"><b>Flazz English</b></h5>
                 <p class="card-text">
@@ -356,7 +356,7 @@
         <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6 mt-3">
           <div class="card" style="max-width: auto;">
             <a target="_blank" href="https://accessive.id/" class="text-reset text-decoration-none">
-              <img src="./landing/images/accessive.png" class="card-img-top" alt="...">
+              <img src="{{ asset("./landing/images/accessive.png") }}" class="card-img-top" alt="...">
               <div class="card-body">
                 <h5 class="card-title"><b>Accessive.id</b></h5>
                 <p class="card-text">
@@ -379,7 +379,7 @@
         <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6 mt-3">
           <div class="card" style="max-width: auto;">
             <a target="_blank" href="https://www.nayantaka.com/" class="text-reset text-decoration-none">
-              <img src="./landing/images/nayantaka.png" class="card-img-top" alt="...">
+              <img src="{{ asset("./landing/images/nayantaka.png") }}" class="card-img-top" alt="...">
               <div class="card-body">
                 <h5 class="card-title"><b>Nayantaka</b></h5>
                 <p class="card-text">
@@ -403,7 +403,7 @@
         <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6 mt-3">
           <div class="card" style="max-width: auto;">
             <a target="_blank" href="https://www.fitnesnesia.com/" class="text-reset text-decoration-none">
-              <img src="./landing/images/fitnesnesia.png" class="card-img-top" alt="...">
+              <img src="{{ asset("./landing/images/fitnesnesia.png") }}" class="card-img-top" alt="...">
               <div class="card-body">
                 <h5 class="card-title"><b>Fitnesnesia</b></h5>
                 <p class="card-text">
